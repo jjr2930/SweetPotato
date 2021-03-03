@@ -1,2 +1,2 @@
 # SweetPotato
-cheap up
+Sweet Potato is delicious :)
